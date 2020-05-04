@@ -4,10 +4,7 @@ export const SideStats = () => {
   return (
     <main className="main">
       <aside className="sideBar">
-
-
         <div className="stats belwelight" id="stats2">Games<br><span className="gamesPlayed">0</span></div>
-
 
           <div className="stats belwelight gamesPlayed" id="stats3">0</div>
 
